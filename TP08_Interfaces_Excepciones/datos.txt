@@ -1,0 +1,3 @@
+Archivo de prueba para el TP 8.
+Este archivo se usa para practicar lectura de archivos.
+También permite probar el manejo de excepciones en Java.
